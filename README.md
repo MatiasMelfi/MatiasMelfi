@@ -37,11 +37,17 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25" style="margin-right:12px;">
   <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" height="25" style="margin-right:12px;">
   <img src="https://img.shields.io/badge/Mantis-0052CC?style=for-the-badge&logo=bug&logoColor=white" height="25" style="margin-right:12px;">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25" style="margin-right:12px;">
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" height="25" style="margin-right:12px;">
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" height="25" style="margin-right:12px;">
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" height="25" style="margin-right:12px;">
+  <img src="https://img.shields.io/badge/Rest%20Assured-3DDC84?style=for-the-badge&logo=java&logoColor=white" height="25" style="margin-right:12px;">
 </p>
 
 **DevOps & CI/CD:**  
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="25" style="margin-right:12px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" style="margin-right:12px;">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25" style="margin-right:12px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" style="margin-right:12px;">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="25" style="margin-right:12px;">
